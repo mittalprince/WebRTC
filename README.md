@@ -1,4 +1,4 @@
-# WwbRTC
+# WebRTC
 
 #### Taking still photos with WebRTC
 
